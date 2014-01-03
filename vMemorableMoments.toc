@@ -1,6 +1,6 @@
 ## Interface: 50400
 ## Version: 50400.1
-## Title: |cffc7c7cfforged|rMemorableMoments
+## Title: |cffc7c7cfv|rMemorableMoments
 ## Notes: Screenshot when gaining achievement and leveling up.
 ## Author: Drauer | github/ForgedAddons
 ## DefaultState: Enabled
