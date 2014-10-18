@@ -1,4 +1,6 @@
 WoW Addon: vMemorableMoments
 ========================
 
-Screenshot when gaining achievement and leveling up.
+Screenshot when gaining achievement or level.
+
+Source: http://github.com/ForgedAddons/vMemorableMoments
